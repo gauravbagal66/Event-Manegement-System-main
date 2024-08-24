@@ -41,27 +41,27 @@ body {
 
 /* Section Background Images */
 .catering {
-    background-image: url('/Images/Caterins\ 1.jpg');
+    background-image: url('Images/Caterins\ 1.jpg');
 }
 
 .decor {
-    background-image: url('/Images/D1.jpg');
+    background-image: url('Images/D1.jpg');
 }
 
 .mehendi {
-    background-image: url('/Images/m3.jpg');
+    background-image: url('Images/m3.jpg');
 }
 
 .anchors {
-    background-image: url('/Images/anchor1.jpg');
+    background-image: url('Images/anchor1.jpg');
 }
 
 .choreographers {
-    background-image: url('/Images/choreographars1.jpg');
+    background-image: url('Images/choreographars1.jpg');
 }
 
 .photographers {
-    background-image: url('/Images/I5.jpg');
+    background-image: url('Images/I5.jpg');
 }
 
 /* Footer */
