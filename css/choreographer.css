@@ -66,3 +66,7 @@ body {
     66% { transform: translateX(-100%); }
     100% { transform: translateX(100%); }
 }
+
+.container h1,p{
+    color: white;
+}
