@@ -590,3 +590,45 @@ div.abcd a {
 div.abcd a:hover {
   background-color: #777;
 }
+
+
+      /* Media Queries */
+      @media (max-width: 768px) {
+        .navbar-nav {
+          flex-direction: column;
+        }
+
+        .home img {
+          width: 100%;
+          height: auto;
+        }
+
+        .abcd {
+          flex-direction: column;
+        }
+
+        .abcd .caterian,
+        .abcd .venue,
+        .abcd .decoration {
+          flex: 1 1 100%; /* Full width */
+          margin: 10px 0;
+        }
+
+        .footer p {
+          font-size: 14px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .nav-item h4 {
+          font-size: 1rem;
+        }
+
+        .footer h5 {
+          font-size: 16px;
+        }
+
+        .footer p {
+          font-size: 12px;
+        }
+      }
